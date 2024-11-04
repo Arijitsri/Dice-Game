@@ -1,4 +1,4 @@
-Dice Game 🎲]
+Dice Game 🎲
 
 A simple and fun single-player dice game built with React.
 
